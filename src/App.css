@@ -11,6 +11,10 @@
   .App-header {
     animation: App-background-gradient infinite 3s linear;
   }
+
+  .App-logo {
+    animation: App-logo-spin infinite 3s linear;
+  }
 }
 
 .App-header {
